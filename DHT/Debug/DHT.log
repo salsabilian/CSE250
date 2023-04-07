@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\salsa\OneDrive\Desktop\DHT\Source.cpp(24,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\salsa\OneDrive\Desktop\DHT\Source.cpp(25,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\salsa\OneDrive\Desktop\DHT\Source.cpp(95,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\salsa\OneDrive\Desktop\DHT\Source.cpp(96,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\salsa\OneDrive\Desktop\DHT\Source.cpp(172,52): warning C4244: 'argument': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\salsa\OneDrive\Desktop\DHT\Source.cpp(178,46): warning C4244: 'argument': conversion from 'double' to 'uint8_t', possible loss of data
+C:\Users\salsa\OneDrive\Desktop\DHT\Source.cpp(190,50): warning C4244: 'argument': conversion from 'double' to 'uint8_t', possible loss of data
+  DHT.vcxproj -> C:\Users\salsa\OneDrive\Desktop\DHT\Debug\DHT.exe
